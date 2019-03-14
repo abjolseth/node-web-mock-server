@@ -1,6 +1,6 @@
 {
   "name": "node-web-mock-server",
-  "version": "0.1.0",
+  "version": "1.0.0",
   "description": "express mock server with schema validation",
   "author": "Are Bjølseth, Knowit Dataess as",
   "license": "MIT",
